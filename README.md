@@ -1,3 +1,16 @@
+---
+title: Agent LP NLP 2025
+emoji: 🏃
+colorFrom: yellow
+colorTo: gray
+sdk: gradio
+sdk_version: 6.1.0
+app_file: app.py
+pinned: false
+license: mit
+short_description: An intelligent NLP course examination system powered by LLMs
+---
+
 # 🎓 AI Examiner Agent
 
 An intelligent NLP course examination system powered by LLMs. This agent conducts oral exams through a conversational interface, evaluating students' knowledge in Natural Language Processing topics.

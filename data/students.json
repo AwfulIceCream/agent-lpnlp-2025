@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "email": "student@example.com",
+      "name": "Test Student"
+    },
+    {
+      "email": "ivan.petrenko@lpnu.ua",
+      "name": "Іван Петренко"
+    },
+    {
+      "email": "maria.shevchenko@lpnu.ua",
+      "name": "Марія Шевченко"
+    },
+    {
+      "email": "oleksandr.kovalenko@lpnu.ua",
+      "name": "Олександр Коваленко"
+    },
+    {
+      "email": "anna.bondarenko@lpnu.ua",
+      "name": "Анна Бондаренко"
+    },
+    {
+      "email": "dmytro.melnyk@lpnu.ua",
+      "name": "Дмитро Мельник"
+    },
+    {
+      "email": "andrii.myrosh.shi.2022@lpnu.ua",
+      "name": "Andrii"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "exams": [
+    {
+      "email": "andrii.myrosh.shi.2022@lpnu.ua",
+      "name": "Andrii",
+      "score": 0,
+      "feedback": "The student did not demonstrate understanding of any of the topics covered in the exam.",
+      "topics": [
+        "Machine Translation",
+        "Named Entity Recognition (NER)",
+        "GPT and Autoregressive Models"
+      ],
+      "start_time": "2025-12-19T00:27:54.651312",
+      "end_time": "2025-12-19T00:28:08.080472",
+      "history": [
+        {
+          "role": "assistant",
+          "content": "Excellent, Andrii! We have three topics to cover today: Machine Translation, Named Entity Recognition (NER), and GPT and Autoregressive Models. Let's start with Machine Translation. Can you tell me a little bit about what machine translation is and how it works?",
+          "datetime": "2025-12-19T00:27:54.993665"
+        },
+        {
+          "role": "user",
+          "content": "no",
+          "datetime": "2025-12-19T00:28:02.831745"
+        },
+        {
+          "role": "assistant",
+          "content": "Let's move on to the next topic, which is Named Entity Recognition (NER). Can you tell me what Named Entity Recognition is and what it's used for?",
+          "datetime": "2025-12-19T00:28:03.653208"
+        },
+        {
+          "role": "user",
+          "content": "no",
+          "datetime": "2025-12-19T00:28:07.114005"
+        }
+      ]
+    }
+  ]
+}

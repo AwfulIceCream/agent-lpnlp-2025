@@ -1,0 +1,65 @@
+{
+  "topics": [
+    {
+      "id": "tokenization",
+      "name": "Tokenization and Text Preprocessing",
+      "description": "Methods for breaking text into tokens, handling punctuation, stemming, lemmatization, and preparing text for NLP models."
+    },
+    {
+      "id": "word_embeddings",
+      "name": "Word Embeddings (Word2Vec, GloVe, FastText)",
+      "description": "Dense vector representations of words, training methods (CBOW, Skip-gram), and properties of embedding spaces."
+    },
+    {
+      "id": "rnn",
+      "name": "Recurrent Neural Networks (RNN, LSTM, GRU)",
+      "description": "Sequential models for processing text, vanishing gradient problem, and gated architectures."
+    },
+    {
+      "id": "attention",
+      "name": "Attention Mechanism",
+      "description": "Self-attention, cross-attention, query-key-value formulation, and multi-head attention."
+    },
+    {
+      "id": "transformers",
+      "name": "Transformer Architecture",
+      "description": "Encoder-decoder structure, positional encoding, layer normalization, and the 'Attention is All You Need' paper."
+    },
+    {
+      "id": "bert",
+      "name": "BERT and Masked Language Modeling",
+      "description": "Bidirectional encoding, pre-training objectives (MLM, NSP), fine-tuning for downstream tasks."
+    },
+    {
+      "id": "gpt",
+      "name": "GPT and Autoregressive Models",
+      "description": "Causal language modeling, decoder-only architecture, in-context learning, and scaling laws."
+    },
+    {
+      "id": "ner",
+      "name": "Named Entity Recognition (NER)",
+      "description": "Identifying and classifying named entities in text, BIO tagging, and evaluation metrics."
+    },
+    {
+      "id": "text_classification",
+      "name": "Text Classification",
+      "description": "Sentiment analysis, topic classification, spam detection, and various approaches from bag-of-words to transformers."
+    },
+    {
+      "id": "machine_translation",
+      "name": "Machine Translation",
+      "description": "Sequence-to-sequence models, encoder-decoder architecture, BLEU score, and neural machine translation."
+    },
+    {
+      "id": "question_answering",
+      "name": "Question Answering",
+      "description": "Extractive and generative QA, reading comprehension, and retrieval-augmented generation."
+    },
+    {
+      "id": "language_models",
+      "name": "Language Models and Perplexity",
+      "description": "N-gram models, neural language models, perplexity as evaluation metric, and smoothing techniques."
+    }
+  ]
+}
+

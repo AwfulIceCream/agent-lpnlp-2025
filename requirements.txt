@@ -1,0 +1,6 @@
+# Core dependencies
+gradio>=6.0.0
+
+# LLM providers
+groq>=0.4.0
+google-generativeai>=0.3.0

@@ -54,3 +54,23 @@ gradio_cached_examples/
 .coverage
 htmlcov/
 
+# ML & Big Files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+wandb/
+mlruns/
+
+# Testing & Quality
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Type Checking
+.mypy_cache/
+
+# Docker Local Overrides
+docker-compose.override.yml
